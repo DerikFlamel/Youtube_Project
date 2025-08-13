@@ -1,25 +1,22 @@
-# 🎥 YouTube Homepage Clone
+# ▶️ YouTube Homepage Clone
 
 A clean and responsive **YouTube homepage** built with **HTML5** and **CSS3**.  
-This project is part of my front-end development learning journey and showcases my skills in **structuring layouts**, **styling with CSS**, and creating **interactive hover effects**.
+This project is part of my front-end development learning journey and showcases my skills in **structuring layouts**,and **styling with CSS**.
 
 ---
 
-## 📌 Project Overview
+## 📝 Project Overview
 
-This is a **static front-end recreation** of the YouTube homepage.  
-You can:
-- View the main YouTube layout with thumbnails
-- Type into a functional-looking search bar (no backend search yet)
-- Interact with hover effects on navigation buttons
+This is a **static front-end recreation** of the YouTube homepage with no backend functionality. The main goal of this project was practice **HTML and CSS extensively**, focusing on mastering HTML syntax and exploring different styling and layout concepts in CSS. It also gave me the opportunity to develop my **UI** and **UX design** skills by studying the fundamentals that large and well-known websites use. 
 
-> ⚠️ This is a visual/UI project only. It has no backend functionality or video streaming — purely design-focused.
+For the design, I combined elements from **both old and new YouTube layouts** to create something familiar yet unique.
+> ⚠️ This project is **desktop-only**
 
 ---
 
 ## 🖼️ Preview
 
-![Project Screenshot](./screenshot.png) <!-- Replace with actual screenshot path -->
+![Project Screenshot](./Downloads/Page_View.jpeg)
 
 ---
 
@@ -32,17 +29,16 @@ You can:
 
 ---
 
-## 🎯 Learning Goals
+## 📌 Learning Goals
 
 - Practice **HTML and CSS fundamentals**
 - Explore **layout design techniques**
-- Improve **hover animations** and **UI feedback**
-- Prepare for future **JavaScript interactivity**
+- Improve **UI feedback**
 
 ---
 
-## 🚀 Getting Started
+## 🧑🏻‍💻 JavaScript + ReactJS coming soon..
 
-### 1️⃣ Clone the repository
+### 🌐 Clone the repository
 ```bash
-git clone https://github.com/yourusername/youtube-homepage.git
+git clone https://github.com/DerikFlamel/Youtube-Project.git
