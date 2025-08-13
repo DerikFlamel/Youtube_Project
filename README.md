@@ -34,10 +34,12 @@ For the design, I combined elements from **both old and new YouTube layouts** to
 - Practice **HTML and CSS fundamentals**
 - Explore **layout design techniques**
 - Improve **UI feedback**
-
+  
 ---
 
-## 🧑🏻‍💻 JavaScript + ReactJS coming soon..
+## 🧑🏻‍💻 JavaScript + ReactJS -> Coming soon..
+
+---
 
 ### 🌐 Clone the repository
 ```bash
