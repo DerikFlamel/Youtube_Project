@@ -32,6 +32,7 @@ Youtube_Project/
 │ └── video.css # Video grid & thumbnails styling
 │── thumbnails/ # Video thumbnails & Page_View screenshot
 │ └── Page_View.jpeg
+│── LICENSE # Project documentation
 │── README.md # Project documentation
 │── youtube.html # Main HTML file
 ```
