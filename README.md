@@ -23,25 +23,15 @@ For the design, I combined elements from **both old and new YouTube layouts** to
 ## 📂 Project Structure
 Youtube_Project/
 │── /icons # Icons used across the page
-
 │── /profile-pictures # Profile images for channel previews
-
 │── /styles # CSS stylesheets
-
 │ ├── general.css # Global styles
-
 │ ├── header.css # Header section styles
-
 │ ├── sidebar.css # Sidebar styles
-
 │ └── video.css # Video grid & thumbnails styling
-
 │── /thumbnails # Video thumbnails & Page_View screenshot
-
 │ └── Page_View.jpeg
-
 │── README.md # Project documentation
-
 │── youtube.html # Main HTML file
 
 ---
