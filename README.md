@@ -60,5 +60,5 @@ git clone https://github.com/DerikFlamel/Youtube-Project.git
 ```
 ---
 
-### JavaScript + ReactJS Coming soon.. 🫰🏻
+### 🧑🏻‍💻 JavaScript + ReactJS Coming soon.. 
 
