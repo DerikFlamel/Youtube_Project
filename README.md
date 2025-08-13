@@ -20,7 +20,7 @@ For the design, I combined elements from **both old and new YouTube layouts** to
 
 ---
 
-## 📂 Project Structure
+## 🖥️ Project Structure
 ```
 Youtube_Project/
 │── icons/ # Icons used across the page
