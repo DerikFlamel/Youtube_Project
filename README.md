@@ -21,7 +21,7 @@ For the design, I combined elements from **both old and new YouTube layouts** to
 ---
 
 ## 📂 Project Structure
-
+```
 Youtube_Project/
 │── icons/ # Icons used across the page
 │── profile-pictures/ # Profile images for channel previews
@@ -34,7 +34,7 @@ Youtube_Project/
 │ └── Page_View.jpeg
 │── README.md # Project documentation
 │── youtube.html # Main HTML file
-
+```
 ---
 
 ## 🛠️ Built With
