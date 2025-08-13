@@ -7,18 +7,17 @@ This project is part of my front-end development learning journey and showcases 
 
 ## 📂 Project Structure
 Youtube_Project/
-│── youtube.html              # Main HTML file
-│── README.md                 # Project documentation
-│
-├── /icons                     # Icons used across the page
-├── /profile-pictures          # Profile images for channel previews
-├── /styles                    # CSS stylesheets
-│   ├── general.css            # Global styles
-│   ├── header.css             # Header section styles
-│   ├── sidebar.css            # Sidebar styles
-│   └── video.css              # Video grid & thumbnails styling
-├── /thumbnails                # Video thumbnails & Page_View screenshot
-│   └── Page_View.jpeg
+│── /icons # Icons used across the page
+│── /profile-pictures # Profile images for channel previews
+│── /styles # CSS stylesheets
+│ ├── general.css # Global styles
+│ ├── header.css # Header section styles
+│ ├── sidebar.css # Sidebar styles
+│ └── video.css # Video grid & thumbnails styling
+│── /thumbnails # Video thumbnails & Page_View screenshot
+│ └── Page_View.jpeg
+│── README.md # Project documentation
+│── youtube.html # Main HTML file
 
 ---
 
