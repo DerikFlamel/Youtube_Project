@@ -5,22 +5,6 @@ This project is part of my front-end development learning journey and showcases 
 
 ---
 
-## 📂 Project Structure
-Youtube_Project/
-│── /icons # Icons used across the page
-│── /profile-pictures # Profile images for channel previews
-│── /styles # CSS stylesheets
-│ ├── general.css # Global styles
-│ ├── header.css # Header section styles
-│ ├── sidebar.css # Sidebar styles
-│ └── video.css # Video grid & thumbnails styling
-│── /thumbnails # Video thumbnails & Page_View screenshot
-│ └── Page_View.jpeg
-│── README.md # Project documentation
-│── youtube.html # Main HTML file
-
----
-
 ## 📝 Project Overview
 
 This is a **static front-end recreation** of the YouTube homepage with no backend functionality. The main goal of this project was practice **HTML and CSS extensively**, focusing on mastering HTML syntax and exploring different styling and layout concepts in CSS. It also gave me the opportunity to develop my **UI** and **UX design** skills by studying the fundamentals that large and well-known websites use. 
@@ -33,6 +17,32 @@ For the design, I combined elements from **both old and new YouTube layouts** to
 ## 🖼️ Preview
 
 ![Project Screenshot](./thumbnails/Page_View.jpeg)
+
+---
+
+## 📂 Project Structure
+Youtube_Project/
+│── /icons # Icons used across the page
+
+│── /profile-pictures # Profile images for channel previews
+
+│── /styles # CSS stylesheets
+
+│ ├── general.css # Global styles
+
+│ ├── header.css # Header section styles
+
+│ ├── sidebar.css # Sidebar styles
+
+│ └── video.css # Video grid & thumbnails styling
+
+│── /thumbnails # Video thumbnails & Page_View screenshot
+
+│ └── Page_View.jpeg
+
+│── README.md # Project documentation
+
+│── youtube.html # Main HTML file
 
 ---
 
