@@ -37,7 +37,7 @@ For the design, I combined elements from **both old and new YouTube layouts** to
   
 ---
 
-## 🧑🏻‍💻 JavaScript + ReactJS -> Coming soon..
+## 🧑🏻‍💻 JavaScript + ReactJS Coming soon..
 
 ---
 
