@@ -54,10 +54,11 @@ Youtube_Project/
   
 ---
 
-## 🧑🏻‍💻 JavaScript + ReactJS Coming soon..
-
----
-
-### 🌐 Clone the repository
+## 🌐 Clone the repository
 ```bash
 git clone https://github.com/DerikFlamel/Youtube-Project.git
+```
+---
+
+### JavaScript + ReactJS Coming soon.. 🫰🏻
+
