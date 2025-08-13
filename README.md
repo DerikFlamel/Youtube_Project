@@ -16,7 +16,7 @@ For the design, I combined elements from **both old and new YouTube layouts** to
 
 ## 🖼️ Preview
 
-![Project Screenshot](./Downloads/Page_View.jpeg)
+![Project Screenshot](./file:///home/kito/Downloads/Page_View.jpeg)
 
 ---
 
