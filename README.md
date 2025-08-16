@@ -59,7 +59,4 @@ Youtube_Project/
 ```bash
 git clone https://github.com/DerikFlamel/Youtube-Project.git
 ```
----
-
-### 🧑🏻‍💻 JavaScript + ReactJS Coming soon.. 
 
